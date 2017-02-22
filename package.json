@@ -1,0 +1,14 @@
+{
+  "name": "node-portscanner",
+  "version": "1.0.0",
+  "description": "Scans for open ports via Telnet",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andreas Scheck",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  }
+}
